@@ -9,10 +9,18 @@
 
 ### Skills:
 💻 These are some technologies I've been working on:
-  Html, CSS, JavaScript, React js, Java, PostgreSQL, MongoDB, Docker, SpringBoot.
+  - Html
+  - CSS
+  - JavaScript
+  - React js
+  - Java
+  - PostgreSQL
+  - MongoDB
+  - Docker
+  - SpringBoot
 
 🌱 I’m currently learning Back End Development.
 
 ### Contact:
-📫 How to reach me: https://www.linkedin.com/in/gabrielafascetta/
+📫 How to reach me: [linkedIn](https://www.linkedin.com/in/gabrielafascetta/)
 
