@@ -14,6 +14,7 @@
   - JavaScript
   - React js
   - Java
+  - Python
   - PostgreSQL
   - MongoDB
   - Docker
